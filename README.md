@@ -17,6 +17,6 @@
 
 ---
 
-# 3. \_views / MbtiResult.js
+# 3. \_views / MbtiProfile.js
 
 fetch 데이터를 참고하여 알맞게 꾸며주세요.
